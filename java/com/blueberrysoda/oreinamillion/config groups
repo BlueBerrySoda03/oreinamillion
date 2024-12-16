@@ -1,0 +1,100 @@
+        //aluminum
+        if(OreInAMillionConfig.isAluminiumEnabled){
+
+        }
+        //chrome
+        if(OreInAMillionConfig.isChromeEnabled){
+
+        }
+        //cobalt
+        if(OreInAMillionConfig.isCobaltEnabled){
+
+        }
+        //copper
+        if(OreInAMillionConfig.isCopperEnabled){
+
+        }
+        //iridium
+        if(OreInAMillionConfig.isIridiumEnabled){
+
+        }
+        //lead
+        if(OreInAMillionConfig.isLeadEnabled){
+
+        }
+        //mithril
+        if(OreInAMillionConfig.isMithrilEnabled){
+
+        }
+        //nickel
+        if(OreInAMillionConfig.isNickelEnabled){
+
+        }
+        //osmium
+        if(OreInAMillionConfig.isOsmiumEnabled){
+
+        }
+        //platinum
+        if(OreInAMillionConfig.isPlatinumEnabled){
+
+        }
+        //silver
+        if(OreInAMillionConfig.isSilverEnabled){
+
+        }
+        //tin
+        if(OreInAMillionConfig.isTinEnabled){
+
+        }
+        //titanium
+        if(OreInAMillionConfig.isTitaniumEnabled){
+
+        }
+        //tungsten
+        if(OreInAMillionConfig.isTungstenEnabled){
+
+        }
+        //uranium
+        if(OreInAMillionConfig.isUraniumEnabled){
+
+        }
+        //zinc
+        if(OreInAMillionConfig.isZincEnabled){
+
+        }
+        //brass
+        if(OreInAMillionConfig.isBrassEnabled){
+
+        }
+        //bronze
+        if(OreInAMillionConfig.isBronzeEnabled){
+
+        }
+        //electrum
+        if(OreInAMillionConfig.isElectrumEnabled){
+
+        }
+        //invar
+        if(OreInAMillionConfig.isInvarEnabled){
+
+        }
+        //steel
+        if(OreInAMillionConfig.isSteelEnabled){
+
+        }
+        //diamond
+        if(OreInAMillionConfig.isDiamondEnabled){
+
+        }
+        //emerald
+        if(OreInAMillionConfig.isEmeraldEnabled){
+
+        }
+        //coal
+        if(OreInAMillionConfig.isCoalEnabled){
+
+        }
+        //charcoal
+        if(OreInAMillionConfig.isCharcoalEnabled){
+
+        }
